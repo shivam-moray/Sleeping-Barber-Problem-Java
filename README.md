@@ -3,7 +3,7 @@
 # A short description of the sleeping barber problem
 A barber shop has an entrance from where the customers enter to have a haircut. Inside there are a set of X barbers who cut the hair of customer one at a time and if there are no customers he sleeps in his chair. If customer arrives and finds the barber asleeps then he goes to the waiting room checks if seats are available he goes and sits on the chair otherwise exits the shop. 
 
-This program has been modidfed for multiple barbers with mutli core implementation from the multi threaded solution for one barber. The source code is referenced from https://orajavasolutions.wordpress.com/tag/sleeping-barber-problem/ This site contains the implementation of sleeping barber problem using wait() and notify() which is fairly easy to understand. Also I have included few resources that might be useful to understand the problem better, you can check them out below.
+This program has been modidfed for multiple barbers with mutli core implementation from the multi threaded solution for one barber. The source code is referenced from https://orajavasolutions.wordpress.com/tag/sleeping-barber-problem/ This site contains the implementation of sleeping barber problem using wait() and notify() which is fairly easy to understand. Also I have included few resources which shows different types of solutions to the sleeping barber problem that might be useful for a better understanding of the problem, you can check them out below.
 
 # Refrences
 https://orajavasolutions.wordpress.com/tag/sleeping-barber-problem/
